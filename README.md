@@ -1,5 +1,7 @@
 # CodeforcesDatabase
 
-Storing various solutions to Codeforces problems.
+Storing solutions to LeetCode and Codeforces problems that I've solved.
 
 Codeforces handle: o-0
+
+LeetCode handle: 
